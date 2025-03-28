@@ -11,6 +11,10 @@
 
         // Greet the user
         Console.WriteLine($"Hello, {name}!");
+
         Console.WriteLine("HELLO FROM DAKSH");
+
+        Console.WriteLine("Aditya");
+
     }
 }
